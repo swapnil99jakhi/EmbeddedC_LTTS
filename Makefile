@@ -1,10 +1,10 @@
-PROJ_NAME = Embedded_C
+PROJ_NAME = EmbeddedC_LTTS
 
 BUILD_DIR = Build
 
 # All Source code files
 SRC =SeatHeatingApp.c\
-src/Activity1.c
+src/activity1.c
 
 
 
