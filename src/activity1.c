@@ -1,6 +1,6 @@
 #include <avr/io.h>
 #include <util/delay.h>
-#include"activity1.h"
+#include"../inc/activity1.h"
     // Direction of ports
 void activity1(){
     DDRB|=(1<<PB0);
