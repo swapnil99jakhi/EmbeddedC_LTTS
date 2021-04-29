@@ -10,6 +10,5 @@ int main(void)
     activity1();
     activity2();
     activity3();
-    activity4();
     return 0;
 }
