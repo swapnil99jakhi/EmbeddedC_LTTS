@@ -10,5 +10,6 @@ int main(void)
     activity1();
     activity2();
     activity3();
+    activity4(uint16_t temp);
     return 0;
 }
