@@ -1,5 +1,11 @@
 # Embedded C Programming with Continous Integration and Code Quality
 
+## CI and Code Quality
+
+|Build|Cppcheck|Codacy|
+|:--:|:--:|:--:|
+|[![Compile-Linux](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/MohdHusainKhan/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a94203ace64bc99a28fc4fb467e05a)](https://www.codacy.com/gh/swapnil99jakhi/EmbeddedC_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=swapnil99jakhi/EmbeddedC_LTTS&amp;utm_campaign=Badge_Grade)|
+
 ## Final Embedded C Project-Seat Heating in Car
 ![Final](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/blob/7d229a5d0e1c936acbca834abfc260e8bb6fb2ae/images/finalproj.PNG)
 
@@ -26,8 +32,3 @@
 
 ##Activity4
 ![Final](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/blob/7d229a5d0e1c936acbca834abfc260e8bb6fb2ae/images/finalproj.PNG)
-## CI and Code Quality
-
-|Build|Cppcheck|Codacy|
-|:--:|:--:|:--:|
-|[![Compile-Linux](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/MohdHusainKhan/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a94203ace64bc99a28fc4fb467e05a)](https://www.codacy.com/gh/swapnil99jakhi/EmbeddedC_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=swapnil99jakhi/EmbeddedC_LTTS&amp;utm_campaign=Badge_Grade)|
