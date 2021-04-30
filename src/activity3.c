@@ -6,15 +6,15 @@
 unsigned volatile temperature;
 void Timer()
 {
-    TCCR1A|=(1<<COM1A1)|(1<<WGM11)|(1<<WGM10);
+    TCCR1A|=(1<<COM1A1)|(1<<WGM11)|(1<<WGM10);//// Selecting FAST mode for PWM
     TCCR1B|=(1<<WGM12)|(1<<CS11)|(1<<CS10); //64 Prescalar
-    DDRB|=(1<<PB1);
+    DDRB|=(1<<PB1);//Setting Port B1 as output to CRO
 }
 int activity3()
 {
 
-    Timer();
-    OCR1A=ADCregister;
+    Timer();//calling function timer
+    OCR1A=ADCregister;//Giving value of ADCregister to OCR1A
     if(ADCregister>0 && ADCregister<=200)
     {
         temperature=20;
