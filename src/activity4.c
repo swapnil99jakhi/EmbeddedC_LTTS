@@ -21,6 +21,5 @@ UDR0=data;
 }
 void activity4(uint16_t temp){
     USARTWriteChar(temp);
-    char USARTReadChar();
 }
 
