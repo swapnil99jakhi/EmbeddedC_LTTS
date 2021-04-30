@@ -30,4 +30,4 @@
 
 |Build|Cppcheck|Codacy|
 |---|---|---|
-|[![Compile-Linux](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/MohdHusainKhan/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml)
+|[![Compile-Linux](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml/badge.svg)](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/Compile.yml)|[![Cppcheck](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml/badge.svg)](https://github.com/MohdHusainKhan/EmbeddedC_LTTS/actions/workflows/CodeQuality.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/01a94203ace64bc99a28fc4fb467e05a)](https://www.codacy.com/gh/swapnil99jakhi/EmbeddedC_LTTS/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=swapnil99jakhi/EmbeddedC_LTTS&amp;utm_campaign=Badge_Grade)|
