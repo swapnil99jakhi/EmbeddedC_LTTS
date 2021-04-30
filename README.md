@@ -1,6 +1,6 @@
 # Embedded C Programming with Continous Integration and Code Quality
 
-## Final Embedded C Project
+## Final Embedded C Project-Seat Heating in Car
 ![Final](https://github.com/swapnil99jakhi/EmbeddedC_LTTS/blob/7d229a5d0e1c936acbca834abfc260e8bb6fb2ae/images/finalproj.PNG)
 
 ## Activity1
