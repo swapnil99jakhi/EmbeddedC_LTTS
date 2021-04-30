@@ -26,6 +26,7 @@ int activity2(void)
 {
     InitADC();
     uint16_t value;
+    //initialize channel 1 as input
     value=ReadADC(1);
     _delay_ms(200);
     return 0;
